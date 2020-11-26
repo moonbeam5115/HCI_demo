@@ -1,2 +1,2 @@
 # HCI_demo
-A demo of basic human computer interaction
+A demo of basic Human-Computer Interaction
